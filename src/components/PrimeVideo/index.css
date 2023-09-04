@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #000000;
+  padding-bottom: 30px;
+}
+.top-image {
+  height: 40%;
+  width: 100%;
+}
+.bg-heading-type {
+  color: #ffffff;
+  margin-left: 30px;
+}
+.slide-container {
+  margin-left: 35px;
+  margin-right: 35px;
+}

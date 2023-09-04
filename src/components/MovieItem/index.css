@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.thumbnail {
+  width: 100%;
+  padding: 10px;
+  cursor: pointer;
+}
+.popup-content {
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+.popup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.close {
+  align-self: flex-end;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.video {
+  width: 50%;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+}
